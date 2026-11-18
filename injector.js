@@ -1,0 +1,1 @@
+const { inyectar } = require('./injector');
